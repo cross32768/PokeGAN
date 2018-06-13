@@ -1,3 +1,7 @@
+# user customize
+processed_images/
+resized_32_images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
